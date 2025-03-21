@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I'm Aminata Marietou I'm a Data & AI Engineer
+
+
+- 🔭 I’m currently working on Fabric and AI Functions
+- 🌱 I’m currently learning ML, LLMs, AI agents
+- 👯 I’m looking to collaborate on  Azure AI solutions, AI agents, Data Platform 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about anything :) 
+- 📫 How to reach me: https://www.linkedin.com/feed/
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: ...
 <!--
 **mariposamg/mariposamg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
